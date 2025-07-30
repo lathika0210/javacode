@@ -9,5 +9,6 @@ public class Solution {
         String a = sc.nextLine();
         System.out.println("Hello");
         System.out.println(a);
+        sc.close();
     }
 }
